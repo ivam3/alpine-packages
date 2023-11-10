@@ -1,0 +1,7 @@
+bloodhound
+bloodyAD
+crackmapexec
+enum4linux-ng
+impacket-scripts
+kerbrute
+name-that-hash
